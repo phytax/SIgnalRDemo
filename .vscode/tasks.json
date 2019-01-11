@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Practical.AspNetCore.SignalR.csproj"
+                "${workspaceFolder}/SignalRDemo.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

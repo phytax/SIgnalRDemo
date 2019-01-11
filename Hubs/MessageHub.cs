@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.SignalR;
 
-namespace Practical.AspNetCore.SignalR
+namespace SignalRDemo
 {
     public class MessageHub : Hub
     {

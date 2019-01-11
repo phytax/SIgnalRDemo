@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Practical.AspNetCore.SignalR
+namespace SignalRDemo
 {
     public class Startup
     {

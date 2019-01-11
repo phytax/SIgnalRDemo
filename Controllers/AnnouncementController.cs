@@ -2,7 +2,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
 
-namespace Practical.AspNetCore.SignalR
+namespace SignalRDemo
 {
     public class AnnouncementController : Controller
     {
